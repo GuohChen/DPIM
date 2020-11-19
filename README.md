@@ -1,2 +1,2 @@
 # DPIM
-MATLAB scripts for DPIM
+MATLAB scripts for DPIM-based reliability
